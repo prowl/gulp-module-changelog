@@ -1,0 +1,14 @@
+{
+  "reports": [
+    "gulpfile.js.json",
+    "lib/index.js.json",
+    "test/index.js.json"
+  ],
+  "baseDir": "/var/node/prowl/modules/gulp-module-changelog/",
+  "cwd": "/var/node/prowl/modules/gulp-module-changelog",
+  "reporterName": "gulp-escomplex-reporter-json",
+  "reporterVersion": "0.1.4",
+  "analysis": "gulp-escomplex",
+  "analysisVersion": "1.0.0",
+  "created": "2014-09-04T22:42:46.718Z"
+}
